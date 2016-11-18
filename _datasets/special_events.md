@@ -15,5 +15,4 @@ category:
   - Arts Culture History
 maintainer: test
 maintainer_email: test@test.com
-last update: 11/27/16
 ---
