@@ -12,7 +12,7 @@ resources:
     format: csv
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - Arts Culture History
+  - Arts / Culture / History
 maintainer: test
 maintainer_email: test@test.com
 ---
