@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Special Events
-organization: Sample Department
+organization: Special Events Department
 notes: This is a test special events dataset
 resources:
   - name: Special Events
