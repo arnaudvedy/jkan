@@ -12,7 +12,8 @@ resources:
     format: csv
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - arts-culture-history
+  - Arts Culture History
 maintainer: test
 maintainer_email: test@test.com
+last update: 11/27/16
 ---
